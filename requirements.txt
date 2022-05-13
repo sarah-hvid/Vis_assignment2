@@ -5,7 +5,7 @@ argparse
 opencv-python
 numpy
 tensorflow
-sklearn
+scikit-learn
 
 # Scripts
 neuralnetwork.py script located in utils folder
