@@ -1,0 +1,12 @@
+# Packages
+sys
+os
+argparse
+opencv-python
+numpy
+tensorflow
+sklearn
+
+# Scripts
+neuralnetwork.py script located in utils folder
+
