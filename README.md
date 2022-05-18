@@ -20,7 +20,7 @@ The labels of the datasets are initially binarized. The script uses the premade 
 In order to run the scripts, certain modules need to be installed. These can be found in the ```requirements.txt``` file. The folder structure must be the same as in this GitHub repository (ideally, clone the repository). The current working directory when running the script must be the one that contains the ```data```, ```output``` and ```src``` folder. \ 
 Examples of how to run the scripts from the command line: 
 
-__The logistic_regression script__\
+__The logistic regression script__\
 Specifying which dataset to use:
 ```bash
 python src/logistic_regression.py -d mnist_784
