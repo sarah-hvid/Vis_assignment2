@@ -11,7 +11,7 @@ The full assignment description is available in the ```assignment2.md``` file.
 This problem relates to classification of images. Initially, the user must specify whether to work with the ```mnist_784``` data or the ```cifar10``` data. The ```mnist_784``` data is split into a training and test set. The ```cifar10``` data is scaled and reshaped.
 
 #### Logistic regression
-The model is initiated without any penalty and with the ```saga``` algorithm as solver. The data is then classified using multinomial logistic regression. The classification report is saved in the output folder. The data is then classified using multinomial logistic regression. The classification report is saved in the output folder. 
+The model is initiated without any penalty and with the ```saga``` algorithm as solver. The data is then classified using multinomial logistic regression. The classification report is saved in the output folder.
   
 #### Neural network
 The labels of the datasets are initially binarized. The script uses the premade module in ```neuralnetwork.py``` located in the ```src/utils``` folder. The neural network is then initialized with 10 epochs. The classification report is saved in the output folder. 
